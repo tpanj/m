@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Contact Us</title>
+  <link rel="stylesheet" href="/bootstrap.min.css" >
+  <link rel="stylesheet" href="/s.css" >
+</head>
+<body>
+<div id="large-header" class="large-header">
+  <canvas id="demo-canvas"></canvas>
+    <h1 class="main-title">Click <span class="thin"><a href="https://cbw.to/4n5s7j">HERE</a></span></h1>
+</div>
+
+  <script src="/bootstrap.min.js"></script>
+  <script src="/EasePack.min.js"></script>
+  <script src="/rAF.js"></script>
+  <script src="/TweenLite.min.js"></script>
+  <script src="/s.js"></script>
+</body>
+</html>
